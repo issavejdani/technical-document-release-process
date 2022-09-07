@@ -27,7 +27,7 @@ If another technical writer approves the initial draft, you can ask approvers fo
 If other technical writers do not approve the initial draft, you should start addressing their comments and suggestions and go back to step 6.
 
 ## Step 8:
-If the approvers approve the draft, the ticket state changes to "approved", and the document is ready to be published. 
+Once the approvers approve the draft, the ticket state changes to "approved", and the document is ready to be published. 
 
 If the ticket is not approved, the technical writer starts addressing all comments and suggestions and then goes back to step 6.
 
