@@ -7,7 +7,7 @@
 There is a new feature or a new product ready to be released. We need a new document. A stakeholder created a task that is in the backlog for now.
 
 ## Step2:
-The technical writing team leader discusses the ticket's priority with the reporter, changes the status to "to do", and assigns it to a technical writer.
+The technical writing team lead discusses the ticket's priority with the reporter, changes the status to "to do", and assigns it to a technical writer.
 
 ## Step3:
 Based on the priorities in the current sprint, the technical writer changes the status to in progress and starts addressing the ticket.
